@@ -7,8 +7,8 @@
 ## Agent mandates are defined in instructions.md. The agent is instructed to carry out the analysis in python, save the script and results to disk, store the plots in /figures, and record a summary of the findings in summary.md. 
 
 ## Just spin up your agent and tell it to carry out the analysis using instructions.md, e.g. 
-###  ```claude'''
-### ```Read instructions.md, then load EPL_24_25.csv and begin the full analysis. Document your findings in summary.md as you go.'''
+###  ```claude```
+### ```Read instructions.md, then load EPL_24_25.csv and begin the full analysis. Document your findings in summary.md as you go.```
 
 
 ## For posterity and comparison, the outputs from my own agent's analysis are saved in this repo in /Results_AJT.
